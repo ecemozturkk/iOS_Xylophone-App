@@ -7,8 +7,6 @@ Xylophone app is a music app that plays Xylophone sounds. For every Beethoven ou
 - Creating functions with inputs
 - Playing different sounds for different buttons
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-10-16 at 18 31 00](https://user-images.githubusercontent.com/56153715/196044029-b5f38099-e496-4343-b235-e385d1d75d6b.png)
-
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-10-16 at 18 13 01](https://user-images.githubusercontent.com/56153715/196043939-cc2f85c8-89ef-4e2c-b409-3388d7a7eddd.gif)
 
 
